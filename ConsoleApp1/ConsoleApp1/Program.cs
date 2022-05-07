@@ -6,7 +6,6 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-
             int minValue = 0;
             int maxValue = 101;
             Random random = new Random();
